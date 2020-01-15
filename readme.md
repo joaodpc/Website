@@ -4,4 +4,8 @@ This is a sample website made as part of a learning course on programming, which
 
 Anyway, coach wants me to send you to his website, but since I am getting nothing for referals, I guess I'm just letting you to use your technical sofisticantion to find them out. They are not bad. But since you are reading this, you probably already know your way around, cheers.
 
+<<<<<<< HEAD
 Learning now
+=======
+Documentação git (https://git-scm.com/)
+>>>>>>> 276aa7fe45a25aab001cf1e77dd79041526b5629
